@@ -1,0 +1,12 @@
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\bin\Debug\TCP_Chat_Room.exe.config
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\bin\Debug\TCP_Chat_Room.exe
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\bin\Debug\TCP_Chat_Room.pdb
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.csproj.AssemblyReference.cache
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.Form1.resources
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.Properties.Resources.resources
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.csproj.GenerateResource.cache
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.csproj.CoreCompileInputs.cache
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.exe
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.pdb
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.Client.resources
+D:\OneDrive\Máy tính\UIT Năm 2\UIT HK2\Lập trình mạng\LT\TCP_Chat_Room\TCP_Chat_Room\obj\Debug\TCP_Chat_Room.Server.resources

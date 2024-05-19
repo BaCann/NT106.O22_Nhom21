@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\uit n\u0103m 2\\uit hk2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lt\\tcp_chat_room\\tcp_chat_room\\main_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA38210E-D9D4-4BDF-B4FF-D7CF9E41F960}|TCP_Chat_Room\\TCP_Chat_Room.csproj|solutionrelative:tcp_chat_room\\main_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Client.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Client.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Client.cs",
+              "RelativeToolTip": "TCP_Chat_Room\\Client.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAlwLoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:17:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main_Server.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Main_Server.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Main_Server.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Main_Server.cs",
+              "RelativeToolTip": "TCP_Chat_Room\\Main_Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:09:31.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Client.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Client.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Client.cs [Design]",
+              "RelativeToolTip": "TCP_Chat_Room\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:57:19.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Server.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Server.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Server.cs",
+              "RelativeToolTip": "TCP_Chat_Room\\Server.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:51:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Server.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Server.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Server.cs [Design]",
+              "RelativeToolTip": "TCP_Chat_Room\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:33:26.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Form1.cs",
+              "RelativeDocumentMoniker": "TCP_Chat_Room\\Form1.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\UIT N\u0103m 2\\UIT HK2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\LT\\TCP_Chat_Room\\TCP_Chat_Room\\Form1.cs",
+              "RelativeToolTip": "TCP_Chat_Room\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:29:33.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
